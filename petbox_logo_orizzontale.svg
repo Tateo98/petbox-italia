@@ -1,0 +1,19 @@
+<svg viewBox="0 0 480 120" xmlns="http://www.w3.org/2000/svg" width="480" height="120">
+
+  <!-- Sfondo trasparente (nessun rect di sfondo) -->
+
+  <!-- Icona: cerchio arancione con zampa -->
+  <circle cx="60" cy="60" r="54" fill="#D85A30"/>
+
+  <!-- Zampa bianca centrata -->
+  <ellipse cx="60" cy="72" rx="22" ry="16" fill="white"/>
+  <ellipse cx="32" cy="50" rx="12" ry="10" fill="white"/>
+  <ellipse cx="47" cy="40" rx="12" ry="10" fill="white"/>
+  <ellipse cx="73" cy="40" rx="12" ry="10" fill="white"/>
+  <ellipse cx="88" cy="50" rx="12" ry="10" fill="white"/>
+
+  <!-- Wordmark -->
+  <text x="130" y="68" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="700" font-size="48" fill="#D85A30">PetBox</text>
+  <text x="133" y="96" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="400" font-size="16" fill="#888780" letter-spacing="5">ITALIA</text>
+
+</svg>
