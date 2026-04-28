@@ -1,0 +1,68 @@
+<svg viewBox="0 0 820 312" xmlns="http://www.w3.org/2000/svg" width="820" height="312">
+
+  <!-- Sfondo scuro -->
+  <rect width="820" height="312" fill="#2C2C2A"/>
+
+  <!-- Texture: zampe piccole sparse sullo sfondo (decorative, opache) -->
+  <!-- Zampa 1 top-left area -->
+  <g opacity="0.07">
+    <ellipse cx="40" cy="60" rx="18" ry="13" fill="#D85A30"/>
+    <ellipse cx="18" cy="36" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="32" cy="26" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="48" cy="26" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="62" cy="36" rx="10" ry="8" fill="#D85A30"/>
+  </g>
+  <!-- Zampa 2 bottom-right -->
+  <g opacity="0.07">
+    <ellipse cx="760" cy="260" rx="22" ry="16" fill="#D85A30"/>
+    <ellipse cx="734" cy="230" rx="12" ry="10" fill="#D85A30"/>
+    <ellipse cx="750" cy="218" rx="12" ry="10" fill="#D85A30"/>
+    <ellipse cx="770" cy="218" rx="12" ry="10" fill="#D85A30"/>
+    <ellipse cx="786" cy="230" rx="12" ry="10" fill="#D85A30"/>
+  </g>
+  <!-- Zampa 3 top-right -->
+  <g opacity="0.05">
+    <ellipse cx="700" cy="50" rx="18" ry="13" fill="#D85A30"/>
+    <ellipse cx="678" cy="26" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="692" cy="16" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="708" cy="16" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="722" cy="26" rx="10" ry="8" fill="#D85A30"/>
+  </g>
+  <!-- Zampa 4 bottom-left -->
+  <g opacity="0.05">
+    <ellipse cx="90" cy="270" rx="18" ry="13" fill="#D85A30"/>
+    <ellipse cx="68" cy="246" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="82" cy="236" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="98" cy="236" rx="10" ry="8" fill="#D85A30"/>
+    <ellipse cx="112" cy="246" rx="10" ry="8" fill="#D85A30"/>
+  </g>
+
+  <!-- Linea verticale separatore sinistra/destra -->
+  <line x1="310" y1="60" x2="310" y2="252" stroke="#D85A30" stroke-width="1.5" stroke-opacity="0.3"/>
+
+  <!-- === PARTE SINISTRA: logo grande === -->
+  <!-- Cerchio arancione grande -->
+  <circle cx="155" cy="156" r="100" fill="#D85A30"/>
+
+  <!-- Zampa centrata nel cerchio -->
+  <!-- Pad centrale -->
+  <ellipse cx="155" cy="186" rx="42" ry="30" fill="white"/>
+  <!-- Diti -->
+  <ellipse cx="95" cy="138" rx="22" ry="18" fill="white"/>
+  <ellipse cx="128" cy="116" rx="22" ry="18" fill="white"/>
+  <ellipse cx="182" cy="116" rx="22" ry="18" fill="white"/>
+  <ellipse cx="215" cy="138" rx="22" ry="18" fill="white"/>
+
+  <!-- === PARTE DESTRA: wordmark + tagline === -->
+  <!-- Nome brand -->
+  <text x="340" y="136" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="700" font-size="62" fill="#D85A30">PetBox</text>
+  <!-- Underline arancione sotto il nome -->
+  <line x1="340" y1="150" x2="638" y2="150" stroke="#D85A30" stroke-width="2.5" stroke-opacity="0.4"/>
+  <!-- Italia -->
+  <text x="342" y="186" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="400" font-size="22" fill="#888780" letter-spacing="6">ITALIA</text>
+  <!-- Tagline -->
+  <text x="342" y="228" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="400" font-size="15" fill="#888780">Il marketplace dei professionisti cinofili</text>
+  <!-- Handle Instagram -->
+  <text x="342" y="260" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="400" font-size="13" fill="#D85A30" opacity="0.8">@petbox.italia</text>
+
+</svg>
