@@ -1,0 +1,26 @@
+<svg viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg" width="1080" height="1920">
+
+  <!-- Sfondo scuro -->
+  <rect width="1080" height="1920" fill="#2C2C2A"/>
+
+  <!-- Cerchio arancione grande centrato (il cuore del cover highlight) -->
+  <circle cx="540" cy="960" r="380" fill="#D85A30"/>
+
+  <!-- Zampa grande centrata -->
+  <!-- Pad centrale -->
+  <ellipse cx="540" cy="1060" rx="156" ry="112" fill="white"/>
+  <!-- Diti -->
+  <ellipse cx="310" cy="880" rx="84" ry="70" fill="white"/>
+  <ellipse cx="446" cy="804" rx="84" ry="70" fill="white"/>
+  <ellipse cx="634" cy="804" rx="84" ry="70" fill="white"/>
+  <ellipse cx="770" cy="880" rx="84" ry="70" fill="white"/>
+
+  <!-- Logo piccolo in alto -->
+  <text x="540" y="200" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="700" font-size="80" fill="#D85A30" text-anchor="middle">PetBox</text>
+  <text x="540" y="272" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="400" font-size="36" fill="#888780" text-anchor="middle" letter-spacing="12">ITALIA</text>
+
+  <!-- Testo categoria highlights in basso -->
+  <text x="540" y="1660" font-family="system-ui,-apple-system,Arial,sans-serif" font-weight="700" font-size="64" fill="white" text-anchor="middle">Razze</text>
+  <line x1="340" y1="1690" x2="740" y2="1690" stroke="#D85A30" stroke-width="3"/>
+
+</svg>
