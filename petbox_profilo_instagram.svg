@@ -1,0 +1,22 @@
+<svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" width="320" height="320">
+  <!-- Background scuro (verrà croppato a cerchio da Instagram) -->
+  <rect width="320" height="320" fill="#2C2C2A"/>
+
+  <!-- Cerchio arancione centrale -->
+  <circle cx="160" cy="160" r="132" fill="#D85A30"/>
+
+  <!-- Zampa principale (pad centrale) -->
+  <ellipse cx="160" cy="196" rx="56" ry="40" fill="white"/>
+
+  <!-- Dito in alto a sinistra -->
+  <ellipse cx="80" cy="134" rx="30" ry="26" fill="white"/>
+
+  <!-- Dito centro-sinistra -->
+  <ellipse cx="128" cy="102" rx="30" ry="26" fill="white"/>
+
+  <!-- Dito centro-destra -->
+  <ellipse cx="192" cy="102" rx="30" ry="26" fill="white"/>
+
+  <!-- Dito in alto a destra -->
+  <ellipse cx="240" cy="134" rx="30" ry="26" fill="white"/>
+</svg>
